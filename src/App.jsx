@@ -5,7 +5,7 @@ import Experience from "./components/Experience"
 import Tech from "./components/Tech"
 import Works from "./components/Works"
 import Contact from "./components/Contact"
-import Starscanvas from "./components/Starscanvas"
+
 import Hero from "./components/Hero"
 import Feedbacks from './components/Feedbacks'
 
