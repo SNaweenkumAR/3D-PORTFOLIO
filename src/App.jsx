@@ -5,9 +5,9 @@ import Experience from "./components/Experience"
 import Tech from "./components/Tech"
 import Works from "./components/Works"
 import Contact from "./components/Contact"
-
 import Hero from "./components/Hero"
 import Feedbacks from './components/Feedbacks'
+import { StarsCanvas } from "./components"
 
 
 
@@ -29,7 +29,7 @@ const  App =() => {
               <Feedbacks/>
               <div className="relative z-0">
                  <Contact/>
-                 <Starscanvas/>
+                 <StarsCanvas/>
               </div>
 
     </div>
