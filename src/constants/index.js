@@ -27,6 +27,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    gsap,
   } from "../assets";
   
   export const navLinks = [
@@ -75,6 +76,10 @@ import {
     {
       name: "JavaScript",
       icon: javascript,
+    },
+    {
+      name: "Gsap",
+      icon: gsap,
     },
     {
       name: "TypeScript",
@@ -288,6 +293,7 @@ import {
       source_code_link: "https://github.com/SNaweenkumAR/Bootstrap",
       liv_link:"https://bootstrap-flame-six.vercel.app/"
     },
+    
    
   ];
   
