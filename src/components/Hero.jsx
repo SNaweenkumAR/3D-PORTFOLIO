@@ -20,10 +20,24 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>NAVEEN KUMAR</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100 sm:text-[20px] xs:text-[16px]`}>
-            I develop Web Application <br className='sm:block hidden' />
-           and Beginner knowledge in 3D user interfaces 
+          I am a passionate and dedicated web developer <br className='sm:block hidden' />
+           ,eager to start my career and contribute as a fresher. 
           </p>
+          <br/>
+          <div className="flex justify-center">
+  <a
+    href="https://drive.google.com/file/d/14qiKxTCJCY8jYXU0FywMBLg6-1O60XcC/view"
+    target="_blank"
+    rel="noopener noreferrer"
+    className=" bg-[#915EFF] text-white px-4 py-2 rounded-lg hover:bg-blue-600"
+  >
+     Resume
+  </a>
+</div>
         </div>
+            
+      
+
       </div>
          
       {/* <ComputersCanvas /> */}

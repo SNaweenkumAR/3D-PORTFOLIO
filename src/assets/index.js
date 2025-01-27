@@ -35,6 +35,8 @@ import tripguide from "./tripguide.png";
 import cafe from "./cafe.png";
 import portfolio from './portfolio.png';
 import deni from './deni.png';
+import cleaner from './Cleaner.png'
+
 
 export {
   logo,
@@ -71,4 +73,5 @@ export {
   deni,
   live,
   gsap,
+  cleaner
 };

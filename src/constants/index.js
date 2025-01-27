@@ -28,6 +28,7 @@ import {
     tripguide,
     threejs,
     gsap,
+    cleaner,
   } from "../assets";
   
   export const navLinks = [
@@ -248,6 +249,28 @@ import {
       image: cafe,
       source_code_link: "https://github.com/SNaweenkumAR/FOOD",
       liv_link:"https://srimurugancafe-demo.netlify.app/",
+    },
+    {
+      name: "CLEANING SERVICE",
+      description:
+        "Created a modern and responsive cleaning service website using React, Vite, and Tailwind CSS, featuring service listings, pricing details, a contact form, and user-friendly design for seamless navigation and improved customer engagement.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Tailwind",
+          color: "green-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: cleaner,
+      source_code_link: "https://github.com/SNaweenkumAR/webnox",
+      liv_link:"https://webnox-ten.vercel.app/",
     },
     {
       name: "Demo Portfolio",
