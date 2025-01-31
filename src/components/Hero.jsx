@@ -26,7 +26,7 @@ const Hero = () => {
           <br/>
           <div className="flex justify-center">
   <a
-    href="https://drive.google.com/file/d/14qiKxTCJCY8jYXU0FywMBLg6-1O60XcC/view"
+    href="https://drive.google.com/drive/folders/1YlJAazoETgqVM2WOlQOS4dDnFFrtxnhw"
     target="_blank"
     rel="noopener noreferrer"
     className=" bg-[#915EFF] text-white px-4 py-2 rounded-lg hover:bg-blue-600"
