@@ -29,6 +29,7 @@ import {
     threejs,
     gsap,
     cleaner,
+    smc,
   } from "../assets";
   
   export const navLinks = [
@@ -227,6 +228,28 @@ import {
       image: gym,
       source_code_link: "https://github.com/SNaweenkumAR/Gym",
       liv_link:"https://gym-steel.vercel.app/",
+    },
+    {
+      name: "SRI MURUGAN CAFE",
+      description:
+        "Srimurugan Cafe's website features a dynamic video background and an Instagram Reels carousel using Swiper.js. It offers a modern, responsive design with seamless navigation, showcasing the cafe’s ambiance  effectively.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "express",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: smc,
+      source_code_link: "https://github.com/SNaweenkumAR/SriMurugan",
+      liv_link:"https://sri-murugan.vercel.app/",
     },
     {
       name: "CAFE",

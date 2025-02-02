@@ -36,6 +36,7 @@ import cafe from "./cafe.png";
 import portfolio from './portfolio.png';
 import deni from './deni.png';
 import cleaner from './Cleaner.png'
+import smc from './smc.png'
 
 
 export {
@@ -73,5 +74,6 @@ export {
   deni,
   live,
   gsap,
-  cleaner
+  cleaner,
+  smc
 };
