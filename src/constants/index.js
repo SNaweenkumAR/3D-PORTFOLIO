@@ -30,6 +30,9 @@ import {
     gsap,
     cleaner,
     smc,
+    climeup,
+    mui,
+    AWS,
   } from "../assets";
   
   export const navLinks = [
@@ -123,6 +126,14 @@ import {
       name: "docker",
       icon: docker,
     },
+     {
+      name: "MUI",
+      icon: mui,
+    },
+     {
+      name: "AWS",
+      icon: AWS
+    },
   ];
   
   const experiences = [
@@ -161,7 +172,29 @@ import {
       date: "2024 -2025",
       points: [
         "Created and edited professional-grade videos for promotional content using CapCut and DaVinci Resolve.",
-        "Continued to expand knowledge in Three.js and Next.js to enhance 3D and SSR (Server-Side Rendering) capabilities in future projects."
+        "Mainly I am good at mobile Editing(Capcut)"
+      ],
+    },
+      {
+      title: "Jr Software Engineer",
+      company_name: "Climeup",
+      icon: climeup,
+      iconBg: "#383E56",
+      date: "2025 - still",
+      points: [
+        "In my current role as a Full Stack Developer (Software Engineer), I have gained hands-on experience in advanced web development practices.",
+
+"On the frontend, I work extensively with React using Vite as the build tool. For UI design and components, we use Material UI (MUI).",
+
+"We manage global state using Redux Toolkit and follow modern frontend architecture.",
+
+"On the backend, our team uses NestJS with MongoDB to build scalable APIs. I will be transitioning into backend work soon to contribute end-to-end.",
+
+"We deploy applications using AWS cloud services, and I am actively learning more about DevOps and infrastructure tools.:",
+
+"I continuously explore and integrate new libraries and tools as part of my learning and project work.",
+
+"I contribute primarily to the frontend, but as a full stack developer, I’m expanding my skills to deliver across the entire tech stack.",
       ],
     },
     // {

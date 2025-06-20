@@ -35,8 +35,11 @@ import tripguide from "./tripguide.png";
 import cafe from "./cafe.png";
 import portfolio from './portfolio.png';
 import deni from './deni.png';
-import cleaner from './Cleaner.png'
-import smc from './smc.png'
+import cleaner from './Cleaner.png';
+import smc from './smc.png';
+import climeup from './climeuplogo.png';
+import mui from './mui.png';
+import AWS from './AWS.png';
 
 
 export {
@@ -75,5 +78,8 @@ export {
   live,
   gsap,
   cleaner,
-  smc
+  smc,
+  climeup,
+  mui,
+  AWS
 };
